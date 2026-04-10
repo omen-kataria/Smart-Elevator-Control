@@ -3,7 +3,7 @@
 This repository contains the ER diagram for a smart elevator control platform designed for large commercial buildings, based on the project brief for **Smart Elevator Control** :contentReference[oaicite:0]{index=0}.
 
 ## 🖼️ ER Diagram Preview
-![Smart Elevator ER Diagram](./Smart Elevator Control.png)
+![Smart Elevator ER Diagram](./Smart_Elevator_Control.png)
 
 ## Overview
 The database models:
